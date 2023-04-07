@@ -1,9 +1,8 @@
 {
-"Title": "شیلدگرام",
-"Description": "این یک پیام تست از شیلدگرام است.",
-"Link": "https://t.me/Vpn_Shield",
-"ColorWave": "#14acdf",
-"ColorWaveTwo": "#53ddef",
+"Title": "#توجه",
+"Description": "سلام کاربر گرامی...\n\n• لینک کانال VIP آموزش کسب‌درآمد و تحلیل قیمت بازار و تورم ایران رایگان شد!!\n- اگه میخوای قیمت از داستان پشت پرده کاهش دلار و تورم بعد عید یا ... زودتر با خبر بشی زودتر عضو کانال شو و حتما وویس رو گوش بده!!!!!\n\n(فقط و فقط ظرفیت 1000 نفر)",
+"ColorWave": "#00E5FF",
+"ColorWaveTwo": "#00B8D4",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "right",
@@ -13,12 +12,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "99",
-"ShowTime": "100",
-"Button": "عضوییییییییت",
-"ButtonCancell": " بعدا ",
+"Cancellable": "False",
+"MessageID": "1",
+"ShowTime": "30",
+"Button": "  عضویت فوری  ",
+"ButtonCancell": "",
 "Closure": "true",
-"Show": "off"
+"Show": "on"
 }
-    
